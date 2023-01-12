@@ -19,7 +19,7 @@
     "serviceDiscoveryType": false,
     "reactive": false,
     "authenticationType": "jwt",
-    "packageName": "com.mycompany.myapp",
+    "packageName": "com.jhipster.health",
     "serverPort": "8080",
     "cacheProvider": "ehcache",
     "enableHibernateCache": true,
@@ -38,7 +38,7 @@
     "clientThemeVariant": "primary",
     "enableTranslation": false,
     "nativeLanguage": "en",
-    "packageFolder": "com/mycompany/myapp",
+    "packageFolder": "com/jhipster/health",
     "jwtSecretKey": "NzRhMjc3ZDlkMDkwMDJhZmJlZmE5MTA3Y2RhNWIwNWQ3ZDk2NGMwZjVhY2FiYTdlZmZmZjI4ZjliODE0ZTM1YTI0ZWZhYjg4NWJiYTYzYjRkYTFjNDBiM2JlNDMwYzk3MWM0YjliYzMzODViOGIxYTJmNWY0MTY3MzljOTNkNzg=",
     "clientPackageManager": "npm",
     "languages": ["en", "fr"]
